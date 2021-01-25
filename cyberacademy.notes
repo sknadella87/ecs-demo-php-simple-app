@@ -64,8 +64,8 @@ export AWS_PROFILE=hia
 Github Setup 
 
 1. Enable github extension on VSCode
-2. git remote add origin https://github.com/sknadella87
-3. Create a repo in github 
+2. git remote add origin git@github.com:sknadella87/ecs-demo-php-simple-app.git
+3. Create a repo in github - ecs-demo-php-simple-app
 4. git clone https://github.com/sknadella87/ecs-demo-php-simple-app.git
 5. add or update files to the repo
-6. git push
+6. git push origin master
